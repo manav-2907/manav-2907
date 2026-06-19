@@ -1,6 +1,6 @@
 # Hi, I'm Manav Narula 👋
 
-## AI/ML Developer | Python | Building Production AI Systems
+## AI/ML Engineer | Python | Building Production AI Systems
 
 🔭 **Currently:** Building AI-powered automation systems, vision-based data extraction solutions, and WhatsApp AI bots at Billtech Labs.
 
