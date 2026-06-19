@@ -2,10 +2,10 @@
 
 ## AI/ML Developer | Python | Building Production AI Systems
 
-🔭 **Currently:** Building AI-powered automation systems, vision-based data extraction solutions, and WhatsApp AI bots at Billtech Labs
-🌱 **Specializing in:** FastAPI, LangChain, OpenAI API, RAG Systems, Agentic AI, and Computer Vision
-💼 **Experience:** Nearly 2 years of experience developing AI-powered applications and backend systems
-🚀 **Interests:** Generative AI, Multi-Agent Systems, LLM Applications, RAG, Computer Vision, and AI Automation
+🔭 **Currently:** Building AI-powered automation systems, vision-based data extraction solutions, and WhatsApp AI bots at Billtech Labs.
+🌱 **Specializing in:** FastAPI, LangChain, OpenAI API, RAG Systems, Agentic AI, and Computer Vision. 
+💼 **Experience:** Nearly 2 years of experience developing AI-powered applications and backend systems.
+🚀 **Interests:** Generative AI, Multi-Agent Systems, LLM Applications, RAG, Computer Vision, and AI Automation.
 📍 **Location:** Delhi, India
 
 
